@@ -696,7 +696,7 @@ nav {
   max-width: 80%;
 }
 .section-six .col-right {
-  padding-top: 0;
+  display: none;
 }
 }
 
